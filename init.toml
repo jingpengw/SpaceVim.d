@@ -15,7 +15,7 @@
   # layer
   colorscheme = "gruvbox"
   #background = "light" 
-  colorscheme_bg = "dark" # light or dark
+  colorscheme_bg = "light" # light or dark
   # Disable guicolors in basic mode, many terminal do not support 24bit
   # true colors
   enable_guicolors = true
